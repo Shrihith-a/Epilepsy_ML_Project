@@ -104,6 +104,8 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.epilepsy_venv
+epilepsy_venv
 env/
 venv/
 ENV/

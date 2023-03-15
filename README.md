@@ -57,6 +57,10 @@ dill
 -e .
 ```
 
+```python
+pip install -r requirements.txt
+```
+
 ### ***3. Create anaconda virtual Environment***
 #### a. Creating virtual environment is a best practice 
 ```python
